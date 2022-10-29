@@ -1,0 +1,20 @@
+Datentypen in Python (Ganzzahlen, Fliesskommazahlen, boolesche Werte, etc.. )
+
+#-----------------------------------------------------------------------------------------------------#
+Datentyp                |           Funktion                |           Beispiel
+
+int                     |           ganze Zahlen            |           x=3
+float                   |           Fliesskommazahlen       |           x=3.0
+complex                 |           komplexe Zahlen         |           x=3+4j
+bool                    |           boolsche Werte          |           x=bool(1) (oder: x==true)
+str                     |           Zeichenketten           |           x='abc'
+tupel                   |           Tupel                   |           x=(1,2,3)
+list                    |           Listen                  |           x=[1,2,3]
+set                     |           Sets                    |           x={1,2,3}
+dict                    |           Dictionaries            |           x={1: 'rot', 2: 'blau'}
+byteArray               |           Byte-Arrays             |           x=bytearray(...)
+io.TextIOWrapper        |           Dateien                 |           x=open('readme.txt')
+
+#-----------------------------------------------------------------------------------------------------#
+
+
